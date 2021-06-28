@@ -1,0 +1,26 @@
+
+.card-body {
+  font-size: small;
+}
+
+.card-title {
+  text-transform: capitalize;
+  width: 100%;
+  margin: auto;
+  border-radius: 0px 5px 0px 5px;
+  padding: 5px;
+  font-size: medium;
+}
+.filter-btn {
+  text-transform: uppercase;
+  font-size: small;
+  margin: 5px;
+}
+
+.filter-btn:hover {
+  background-color: rgb(206, 206, 43);
+  color: black;
+}
+h2{
+  font-family: "Cedarville Cursive", cursive;
+}
